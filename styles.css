@@ -294,6 +294,11 @@ hr {
 	background-color: rgb(240,240,240);
 }
 
+.submit:hover {
+	color: black;	
+	text-decoration: none;
+}
+
 .bio-container {
 	width: 100%;
 	padding: 15px;
